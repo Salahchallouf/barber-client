@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755596809328",
+    "project_id": "barbar-77eec",
+    "storage_bucket": "barbar-77eec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755596809328:android:36b2a3e5fab8583d1d50b5",
+        "android_client_info": {
+          "package_name": "com.at.example.barbar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrb9MPwo2iPcrUPex0sjVhIjzVmdAlhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
